@@ -5,5 +5,7 @@ fn main() {
    let mut  s =1;
    s = 3;
 
+   println!("22233");
+
    println!("hello :{s}")
 }
